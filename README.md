@@ -1,8 +1,8 @@
 # C_vs_Python
-BTL Python
-So sánh tốc độ C với Python
-Tiêu chí:
-  Cả 2 đều chỉ in số đúng
-  Dùng hàm tính thời gian chính xác
-  Chạy trên cùng shell
+BTL Python \n
+So sánh tốc độ C với Python \n
+Tiêu chí: \n
+  Cả 2 đều chỉ in số đúng \n
+  Dùng hàm tính thời gian chính xác \n
+  Chạy trên cùng shell, cùng terminal \n
   
