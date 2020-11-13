@@ -4,17 +4,18 @@
 
 int Fibonacci(int n)
 {
-    if (n == 1 || n == 2)
-        return 1;
+	if (n< 0) return -1;
+    if (n == 0 || n == 1)
+        return n;
     return Fibonacci(n - 1) + Fibonacci(n - 2);
 }
 
 void function(){
-    int i=1;
+    int i=0;
     while(i<45)
     {
-        i++;
         printf("\n%d",Fibonacci(i));
+        i++;
     }
 
 }
